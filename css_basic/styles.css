@@ -1,11 +1,9 @@
 body,main{
     display: flex;
-
 }
 body{
     flex-direction: column;
-    background-color: rgb(107, 225, 225);
-  
+    background-color: rgb(107, 225, 225);  
 }
 main{
     flex-direction: row;
@@ -23,4 +21,14 @@ aside{
 }
 footer{
     font-family:cursive;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+header img{
+  width:8%;
+  height: 90%;  
 }
