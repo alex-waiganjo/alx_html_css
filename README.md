@@ -1,1 +1,1 @@
-# This Repo contains  landing page project done in Html and Css
+# This Repo contains a landing page project done in Html and Css
